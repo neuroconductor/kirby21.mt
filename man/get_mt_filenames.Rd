@@ -19,4 +19,3 @@ Return the filenames for the MT images
 \examples{
 get_mt_filenames()
 }
-
