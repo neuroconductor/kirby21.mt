@@ -16,6 +16,3 @@ Indicator if the data is downloaded.
 \description{
 Download the files for the MT images
 }
-\examples{
-download_mt_data()
-}
