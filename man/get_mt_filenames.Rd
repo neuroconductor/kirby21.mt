@@ -11,7 +11,7 @@ get_mt_filenames(...)
 \code{modalities = "MT"} so it cannot be specified}
 }
 \value{
-Vector fo filenames
+Vector of filenames
 }
 \description{
 Return the filenames for the MT images
